@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FSModDe-Compiler": {
+      "commandName": "Project",
+      "commandLineArgs": "-d \"DebugModFolder\\Mod\""
+    }
+  }
+}
